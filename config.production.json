@@ -1,0 +1,18 @@
+{
+    "url": "https://Ghost15.herokuapp.com",
+    "database": {
+      "client": "mysql",
+      "connection": {
+        "host": "aqx5w9yc5brambgl.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+        "user": "e5v6hhdp4l2r5j9p",
+        "password": "xe8julpzkotc8ypy",
+        "database": "u29f93h5zcx14pnz",
+        "port": 3306,
+        "ssl": true
+      }
+    },
+    "server": {
+      "host": "0.0.0.0",
+      "port": "${PORT}"
+    }
+  }
